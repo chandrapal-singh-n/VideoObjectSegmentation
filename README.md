@@ -4,4 +4,4 @@ brief discssion and links of the dataset which are used for video object segment
 
 [DAVIS Dataset](https://davischallenge.org/) 
 
-[Youtube Video Object Segmentation dataset] (https://youtube-vos.org/)
+[Youtube Video Object Segmentation dataset](https://youtube-vos.org/)
